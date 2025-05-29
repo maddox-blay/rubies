@@ -1,2 +1,2 @@
 # rubies
-this is where ill keep short snippets of ruby code
+This is where i'll keep short snippets of ruby code
